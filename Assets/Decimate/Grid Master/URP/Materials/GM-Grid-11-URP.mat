@@ -59,7 +59,7 @@ Material:
     - _Smoothness: 0
     - _Tiling: 2
     m_Colors:
-    - _Base_Color: {r: 0.12967247, g: 0.4986872, b: 0.5849056, a: 1}
+    - _Base_Color: {r: 0.12941176, g: 0.58431375, b: 0.19472364, a: 1}
     - _Emission_Color: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3729133454598192734
